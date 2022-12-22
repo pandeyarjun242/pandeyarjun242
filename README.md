@@ -29,7 +29,7 @@
 
 
 ##### NOW
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28px"> Currently working on automating object detection algorithms and learning more about the nuances of C++ through CS 106B at Stanford.
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28px"> Currently learning more about object detection and nuances of efficient algorithms through CS 161 at Stanford.
 
 #### BIO
 
